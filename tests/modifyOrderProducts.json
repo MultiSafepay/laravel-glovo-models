@@ -1,0 +1,32 @@
+{
+    "replacements": [
+        {
+            "purchased_product_id": "MTg4MjcwNA==",
+            "product": {
+                "id": "pd6",
+                "quantity": 1,
+                "attributes": [
+                    {
+                        "id": "at2",
+                        "quantity": 1
+                    }
+                ]
+            }
+        }
+    ],
+    "removed_purchases": [
+        "MTg4MjcwM1=="
+    ],
+    "added_products": [
+        {
+            "id": "pd9",
+            "quantity": 1,
+            "attributes": [
+                {
+                    "id": "at3",
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}
